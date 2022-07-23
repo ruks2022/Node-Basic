@@ -1,0 +1,16 @@
+{
+  "name": "basic",
+  "version": "1.0.0",
+  "description": "Hello-World in node.js",
+  "main": "Hello-World.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ruksar",
+  "license": "ISC",
+  "dependencies": {
+    "formidable": "^2.0.1",
+    "nodemailer": "^6.7.7",
+    "upper-case": "^2.0.2"
+  }
+}
